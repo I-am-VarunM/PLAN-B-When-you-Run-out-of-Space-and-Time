@@ -1,0 +1,2 @@
+Number of signals: 45
+Total time taken: 0.4108s
